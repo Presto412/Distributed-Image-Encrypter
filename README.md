@@ -1,4 +1,4 @@
-# HPC Project
+# Distributed Image Encrypter
 
 ## Description
 
@@ -20,8 +20,3 @@ Encrypts the image using DES algorithm using parallel and distributed computatio
 7. Run the following command in the host PC - `curl 0.0.0.0:3000/encrypt`
 8. You will be able to see the logs on the console, the encrypted image will be output to `/tmp/output.jpeg` path.
 9. If you want to change the input image, simply replace `original.jpeg` with another image but with the same name, and repeat from step 1.
-
-# Team Members
-
-- Priyansh Jain 16BCE0979
-- Harshit Choubey 16BCE0515
